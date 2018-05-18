@@ -1,6 +1,6 @@
 # NumbTo
 
-https://github.com/ravimariya/numb_to
+[Gem Version]: https://rubygems.org/gems/numb_to
 
 Gem to format numbers directly inside model, view and controller, from number to phone number, currency, size and human number
 
