@@ -1,6 +1,6 @@
 # NumbTo
 
-[Gem Version]: https://rubygems.org/gems/numb_to
+[![GitHub version](https://badge.fury.io/gh/ravimariya%2Fnumb_to.svg)](https://badge.fury.io/gh/ravimariya%2Fnumb_to)
 
 Gem to format numbers directly inside model, view and controller, from number to phone number, currency, size and human number
 
@@ -22,7 +22,7 @@ Or install it yourself as:
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/numb_to. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/ravimariya/numb_to. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 
 ## License
