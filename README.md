@@ -19,6 +19,19 @@ And then execute:
 Or install it yourself as:
 
     $ gem install numb_to
+    
+## Usage
+
+```ruby
+numb = NumbTo::Format.new
+numb.usd(123456789) # => "$123,456,789.00"
+numb.phone(1234567890) # => "123-456-7890"
+numb.size(12345) #=> "12.1 KB"
+numb.percentage(100) #=> "100.000%"
+```
+
+for more options [Number Helper](http://api.rubyonrails.org/classes/ActionView/Helpers/NumberHelper.html)
+
 
 ## Contributing
 
