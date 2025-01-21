@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'Gem to format numbers directly inside model, view and controller'
   spec.description   = 'Gem to format numbers directly inside model, view and controller'
-  spec.homepage      = 'https://github.com/ravimariya/numb)to'
+  spec.homepage      = 'https://github.com/ravimariya/numb_to'
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
